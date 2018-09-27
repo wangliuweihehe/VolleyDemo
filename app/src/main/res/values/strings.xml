@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sliding_card_view_behavior">com.wlw.admin.myapplication.widget.SlidingCardBehavior</string>
+</resources>
